@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+
+.container {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.acciones {
+    margin-left: 5px;
+}
+
+.item-elemento {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
